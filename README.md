@@ -23,25 +23,25 @@ RESTful API for URL shortening
 1. Clone this repository
   
 ```
-$ git clone git@github.com:baglana/url-shortener-api.git
+git clone git@github.com:baglana/url-shortener-api.git
 ```
   
 2. Navigate into the folder  
 
 ```
-$ cd url-shortener-api
+cd url-shortener-api
 ```
   
 3. Install NPM dependencies
 
 ```
-$ npm install
+npm install
 ```
 
 7. Run the project
   
 ```
-$ npm start
+npm start
 ```
 
 localhost: "http://127.0.0.1:3000";
